@@ -40,6 +40,6 @@ Subclass seperti WisataAlam dan WisataBudaya mengimplementasikan metode tersebut
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="https://github.com/Deniera20">Deniera Rafiu Farras Hady</a></li>
+  <li>Github: <a href="https://github.com/Deniera20/UTS_PBO1_TIF-RP-23-PB_23552012010">Deniera Rafiu Farras Hady</a></li>
   <li>GDrive: <a href="https://drive.google.com/file/d/1kGT-ZurdhqRklckOFh-unHSEo2BDZdWo/view?usp=sharing">Video Demo</a></li>
 </ul>
